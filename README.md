@@ -1,6 +1,6 @@
 # A simple Calculator
  A simple calculator using HTML, CSS &amp; Javascript
- ![title-pic](https://github.com/beertocode/mycalci/blob/master/bgImg.jpg)
+ ![title-pic](https://github.com/beertocode/mycalci/blob/master/Screenshot%20(266).png)
  
  This is a simple calculator functionality achieved using Javascript. The logic is very simple with the minimum lines of code possible.
  The calculator has arithmetic and bitwise operators.

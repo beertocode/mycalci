@@ -57,10 +57,12 @@ body{
 	background-color: #eaedef;
 }
 .number, .operator{
+	
 	cursor: pointer;
 	
 }
 .operator:active, .number:active{
+	
 	
 	font-size: 13px;
 }
@@ -87,4 +89,12 @@ button:nth-child(16){
 button:nth-child(20){
 	font-size: 20px;
 	background-color: #9477af;
+}
+button:nth-child(17){
+	font-size: 20px;
+	background-color: #ff0000;
+}
+button:nth-child(19){
+	font-size: 20px;
+	background-color: #ff0000;
 }

@@ -13,3 +13,4 @@
 - HTML
 - CSS [style/Presentation]
 - Javascript [Logic/Working of calculator]
+Clich here to use the calculator : 

@@ -13,4 +13,4 @@
 - HTML
 - CSS [style/Presentation]
 - Javascript [Logic/Working of calculator]
-Clich here to use the calculator : [Calculator](https://htmlpreview.github.io/?https://github.com/beertocode/mycalci/blob/master/index.html)
+- Click here to use the calculator : [Calculator](https://htmlpreview.github.io/?https://github.com/beertocode/mycalci/blob/master/index.html)
